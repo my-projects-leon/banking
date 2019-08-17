@@ -1,0 +1,9 @@
+2018-02-13 06:23:31 INFO  Driver_Customers:195 - Successfully deposited $500.0 into account 0
+5:10 AM 2/13/20182018-02-13 06:25:41 INFO  Driver_Customers:251 - Withdrew $0 new balance is: 250.0
+5:10 AM 2/13/20182018-02-13 08:48:44 INFO  Driver_Admin:260 - Deposit into Account: 0's new balance is: $500.0
+5:10 AM 2/13/20182018-02-13 08:53:31 INFO  Driver_Admin:261 - Deposit into Account: 0's new balance is: $500.0
+5:10 AM 2/13/20182018-02-13 08:55:08 INFO  Driver_Admin:261 - Deposit into Account: 0's new balance is: $500.0
+5:10 AM 2/13/20182018-02-13 09:03:18 INFO  Driver_Admin:261 - Deposit into Account: 0's new balance is: $500.0
+5:10 AM 2/13/20182018-02-13 09:28:55 INFO  Driver_Customers:200 - Successfully deposited $500.0 into account 0
+5:10 AM 2/13/20182018-02-13 09:34:17 INFO  Driver_Customers:256 - Withdrew $0 new balance is: 0.0
+5:10 AM 2/13/2018

@@ -1,0 +1,20 @@
+CREATE TABLE account(
+	account_id integer PRIMARY KEY,
+	status varchar(20),
+	request_type varchar(20),
+	balance float
+);
+	
+Create Table profile(
+	profile_id integer PRIMARY KEY,
+	first_name varchar(30),
+	last_name varchar(30),
+	username varchar(30),
+	password varchar(30)
+);
+
+Create Table accountsOwned(
+	account_id integer REFERENCES account(account_id),
+	profile_id integer REFERENCES profile(profile_id),
+	PRIMARY KEY (account_id, profile_id)
+);
